@@ -1,6 +1,6 @@
 # openai-workspace-mcp
 
-English | [中文](./README.zh-CN.md)
+English | [Chinese](./README.zh-CN.md)
 
 OpenAI Workspace MCP server for Claude — exposes the OpenAI **Admin API** (the API
 Platform organization back office, distinct from ChatGPT Enterprise workspace admin) as
@@ -9,7 +9,7 @@ project API keys, rate limits, usage, costs, and audit logs.
 
 **Tech stack:** Python 3.12 + uv + FastMCP (Starlette/uvicorn)
 
-关联需求：PRD-15751（ChatGPT / OpenAI Workspace）。完整调研见
+Related requirement: PRD-15751 (ChatGPT / OpenAI Workspace). See the full research in
 `vendor-mcp-template/prd/OpenAIWorkspace.md`.
 
 **Out of scope:** Admin API key self-management, fine-grained custom Roles/Groups (RBAC),
