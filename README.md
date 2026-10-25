@@ -1,7 +1,5 @@
 # openai-workspace-mcp
 
-English | [Chinese](./README.zh-CN.md)
-
 OpenAI Workspace MCP server for Claude — exposes the OpenAI **Admin API** (the API
 Platform organization back office, distinct from ChatGPT Enterprise workspace admin) as
 MCP tools: organization members, invites, projects, project members, service accounts,
